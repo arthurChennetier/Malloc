@@ -4,4 +4,4 @@
 
 Student Project
 
-Dynamic librairie
+Dynamic library
